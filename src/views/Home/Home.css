@@ -1,0 +1,19 @@
+.Landing-page{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: black;
+}
+.box{
+    height: 450px;
+    width: 450px;
+    padding: 8px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid white;
+    border-radius: 30px;
+    cursor: pointer;
+    background-color: rgba(128, 0, 128, 0.515);
+}
